@@ -8,11 +8,11 @@ const chalk = require("chalk")
 const fs = require("fs")
 
 //======= Change settings =======\\
-global.owner = ["2347036214381"] // owner number 
+global.owner = ["919614477116"] // owner number 
 global.botname = ["Arch Md"] // don't change 
 global.simbol = "♘" // don't change 
 global.typeMenu = 'v1' //don't change 
-global.anticall = false // your choice 
+global.anticall = true // your choice 
 global.xprefix = '.' // your desired prefix
 //======= Don't change =======\\
 
